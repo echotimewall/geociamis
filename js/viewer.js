@@ -1,4 +1,3 @@
-
 require([
       // ArcGIS
 	  "esri/Map",
